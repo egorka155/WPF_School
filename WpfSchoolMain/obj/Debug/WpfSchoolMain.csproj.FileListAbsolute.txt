@@ -1,0 +1,15 @@
+C:\Users\mvsz0\OneDrive\Рабочий стол\WpfSchoolMain\WpfSchoolMain\bin\Debug\WpfSchoolMain.exe.config
+C:\Users\mvsz0\OneDrive\Рабочий стол\WpfSchoolMain\WpfSchoolMain\bin\Debug\WpfSchoolMain.exe
+C:\Users\mvsz0\OneDrive\Рабочий стол\WpfSchoolMain\WpfSchoolMain\bin\Debug\WpfSchoolMain.pdb
+C:\Users\mvsz0\OneDrive\Рабочий стол\WpfSchoolMain\WpfSchoolMain\obj\Debug\WpfSchoolMain.csprojAssemblyReference.cache
+C:\Users\mvsz0\OneDrive\Рабочий стол\WpfSchoolMain\WpfSchoolMain\obj\Debug\MainWindow.g.cs
+C:\Users\mvsz0\OneDrive\Рабочий стол\WpfSchoolMain\WpfSchoolMain\obj\Debug\App.g.cs
+C:\Users\mvsz0\OneDrive\Рабочий стол\WpfSchoolMain\WpfSchoolMain\obj\Debug\WpfSchoolMain_MarkupCompile.cache
+C:\Users\mvsz0\OneDrive\Рабочий стол\WpfSchoolMain\WpfSchoolMain\obj\Debug\WpfSchoolMain_MarkupCompile.lref
+C:\Users\mvsz0\OneDrive\Рабочий стол\WpfSchoolMain\WpfSchoolMain\obj\Debug\MainWindow.baml
+C:\Users\mvsz0\OneDrive\Рабочий стол\WpfSchoolMain\WpfSchoolMain\obj\Debug\WpfSchoolMain.g.resources
+C:\Users\mvsz0\OneDrive\Рабочий стол\WpfSchoolMain\WpfSchoolMain\obj\Debug\WpfSchoolMain.Properties.Resources.resources
+C:\Users\mvsz0\OneDrive\Рабочий стол\WpfSchoolMain\WpfSchoolMain\obj\Debug\WpfSchoolMain.csproj.GenerateResource.cache
+C:\Users\mvsz0\OneDrive\Рабочий стол\WpfSchoolMain\WpfSchoolMain\obj\Debug\WpfSchoolMain.csproj.CoreCompileInputs.cache
+C:\Users\mvsz0\OneDrive\Рабочий стол\WpfSchoolMain\WpfSchoolMain\obj\Debug\WpfSchoolMain.exe
+C:\Users\mvsz0\OneDrive\Рабочий стол\WpfSchoolMain\WpfSchoolMain\obj\Debug\WpfSchoolMain.pdb

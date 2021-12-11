@@ -1,0 +1,45 @@
+﻿<Window x:Class="WpfSchoolMain.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfSchoolMain"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Margin="0,0,3.6,0">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="5*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="3*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+        <Image Source="C:\Users\mvsz0\OneDrive\Рабочий стол\Рубежка\school-main\школа ин языков\Общие ресурсы\school_logo.png" Grid.Row="0" Grid.Column="0" HorizontalAlignment="Left" Margin="13"/>
+        <Label Content="Список уcлуг" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="20" FontWeight="Bold" Grid.Row="0" Grid.ColumnSpan="2"/>
+        <DataGrid Name="dataGrid" Grid.Row="1"/>
+        <StackPanel Grid.Row="1" Grid.Column="1" Orientation="Vertical">
+            <Label Content="Фильтрация"/>
+            <ComboBox Name="filterComboBox">
+                <TextBlock>По клиенту</TextBlock>
+            </ComboBox>
+            <Grid Margin="0 10 0 0">
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="3*"/>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="3*"/>
+                </Grid.ColumnDefinitions>
+                <Label Content="от" Grid.Column="0" Grid.Row="0" HorizontalContentAlignment="Center"/>
+                <TextBox Grid.Column="1" Grid.Row="0" Name="fromTextBox"/>
+                <Label Content="до" Grid.Column="2" Grid.Row="0" HorizontalContentAlignment="Center"/>
+                <TextBox Grid.Column="3" Grid.Row="0" Name="toTextBox"/>
+                <Button Content="Отфильтровать" Grid.Row="1" Grid.ColumnSpan="4" Margin="50 10 50 0" Click="Button_Click"/>
+            </Grid>
+        </StackPanel>
+    </Grid>
+</Window>
